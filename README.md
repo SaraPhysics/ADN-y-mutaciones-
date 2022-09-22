@@ -1,4 +1,4 @@
-# ADN,-síntesis-de-proteínas-y-mutaciones-
+# ADN, síntesis de proteínas y mutaciones.
 El ADN es una molécula que consiste en dos hebras formadas por unidades llamadas nucleótidos. Estos se componen de un azúcar: la desoxirribosa, un grupo fosfato y una base nitrogenada: Adenina (A), Timina (T), Guanina (G) o Citosina (C). Las hebras se unen a través de puentes de hidrógeno que conectan pares de bases específicos: A-T y G-C.
 Existe una quinta base, el Uracilo (U), que solo lo contienen las moléculas de ARN en sustitución de la Timina.
 Este programa describe el proceso de replicación, trascripción y traducción que sigue una molécula de ADN para conseguir la síntesis de las proteínas. 
